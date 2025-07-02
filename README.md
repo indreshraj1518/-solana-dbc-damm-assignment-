@@ -55,4 +55,8 @@ See `timeline.md` or below for breakdown:
 - **Day 5:** Fee simulation + `claim_fees.ts`
 - **Day 6:** Solscan TXs + final testing
 
+## 📹 Demo Video
+
+🎥 Watch here: https://www.loom.com/share/831d9b4ffd1842dc982f80347fbc759e?sid=8287e6b1-0f71-4f62-8e05-0588f56e7276
+
 
