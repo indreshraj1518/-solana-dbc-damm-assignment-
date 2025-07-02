@@ -44,4 +44,15 @@ npm run buy
 npm run migrate
 npm run claim
 
+## 📄 Timeline & Understanding
+
+See `timeline.md` or below for breakdown:
+
+- **Day 1:** Solana CLI setup, Devnet wallets
+- **Day 2:** Token mint + `launch.ts`
+- **Day 3:** User buy logic + `buy.ts`
+- **Day 4:** Migration logic + `migrate.ts`
+- **Day 5:** Fee simulation + `claim_fees.ts`
+- **Day 6:** Solscan TXs + final testing
+
 
