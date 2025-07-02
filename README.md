@@ -39,3 +39,9 @@ This project simulates a full token launch lifecycle on the Solana Devnet using 
 
 ```bash
 npm install
+npm run launch
+npm run buy
+npm run migrate
+npm run claim
+
+
